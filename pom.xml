@@ -12,9 +12,9 @@
 	<artifactId>tinyUrl</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tinyUrl</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Rest API to create and manage tiny urls</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>19</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
